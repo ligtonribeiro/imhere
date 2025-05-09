@@ -21,6 +21,8 @@ export function Home() {
     'Juliana',
     'Luana',
     'Thais',
+    'José Wellington',
+    'Maria Ribeiro',
   ];
 
   function handleParticipantAdd() {

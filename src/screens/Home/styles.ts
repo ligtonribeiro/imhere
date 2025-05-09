@@ -23,7 +23,7 @@ export const styles = StyleSheet.create({
     borderRadius: 5,
     padding: 16,
     fontSize: 16,
-    marginRight: 12,
+    marginRight: 5,
   },
   buttonText: {
     color: '#fff',
@@ -43,5 +43,10 @@ export const styles = StyleSheet.create({
     flexDirection: 'row',
     marginTop: 24,
     marginBottom: 42,
+  },
+  listEmptyText: {
+    color: '#6b6b6b',
+    textAlign: 'center',
+    fontSize: 14,
   },
 });
